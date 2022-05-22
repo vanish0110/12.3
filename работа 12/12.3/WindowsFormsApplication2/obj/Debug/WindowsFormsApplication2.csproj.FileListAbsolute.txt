@@ -1,0 +1,22 @@
+c:\users\tolik-2003\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\tolik-2003\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApp2.Form1.resources
+c:\users\tolik-2003\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\tolik-2003\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\tolik-2003\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\tolik-2003\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\tolik-2003\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\tolik-2003\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Tolik-2003\Documents\Visual Studio 2013\Projects\Работа 12. Вариант 3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Tolik-2003\Documents\Visual Studio 2013\Projects\Работа 12. Вариант 3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Tolik-2003\Documents\Visual Studio 2013\Projects\Работа 12. Вариант 3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ivan6\OneDrive\Desktop\rabota12variant3-main\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Ivan6\OneDrive\Desktop\rabota12variant3-main\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ivan6\OneDrive\Desktop\rabota12variant3-main\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ivan6\OneDrive\Desktop\rabota12variant3-main\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.AssemblyReference.cache
+C:\Users\Ivan6\OneDrive\Desktop\rabota12variant3-main\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan6\OneDrive\Desktop\rabota12variant3-main\WindowsFormsApplication2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Ivan6\OneDrive\Desktop\rabota12variant3-main\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ivan6\OneDrive\Desktop\rabota12variant3-main\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Ivan6\OneDrive\Desktop\rabota12variant3-main\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Ivan6\OneDrive\Desktop\rabota12variant3-main\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Ivan6\OneDrive\Desktop\rabota12variant3-main\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
